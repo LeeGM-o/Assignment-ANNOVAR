@@ -51,16 +51,16 @@ table_annovar.pl JAS_GATK.avinput humandb/
   -xref example/gene_xref.txt 
   -remove -nastring . -csvout -polish
 ```
-![annovar2](https://github.com/user-attachments/assets/523239dd-524d-4ea3-b8be-d9472b8736d6)
+![annovar2](https://github.com/user-attachments/assets/523239dd-524d-4ea3-b8be-d9472b8736d6)   
 Downstream analysis was performed by extracting only the variation in the exon site (exonic, splicing, exonic; splicing).
 
 #### 3) Downstream analysis
 ![annovar3](https://github.com/user-attachments/assets/7d400031-0b16-4225-804a-8d7eaea5639b)
-**a)** Variations were highest in chromosomes 1 and 19.
-**b)** It was confirmed that the gene with the most mutations was the MUC3A (mucus-related) gene group.
-**c)** When comparing the allele frequencies of two exonic mutations (synonic SNVs, non-synonic SNVs) related to protein amino acid sequences, they tend to show a similar distribution.
-**d)** When comparing allele frequencies by race for specific gene NRXN2 registered in the main DB and mentioned in the ANNOVAR tutorial, it was found that allele frequencies were relatively low in African and African American and East Asian races.
-**e)** When tumor-related mutations were identified with the COSMIC DB, the mutations derived from large intestine tissue were the most common.
+**a)** Variations were highest in chromosomes 1 and 19.   
+**b)** It was confirmed that the gene with the most mutations was the MUC3A (mucus-related) gene group.   
+**c)** When comparing the allele frequencies of two exonic mutations (synonic SNVs, non-synonic SNVs) related to protein amino acid sequences, they tend to show a similar distribution.   
+**d)** When comparing allele frequencies by race for specific gene NRXN2 registered in the main DB and mentioned in the ANNOVAR tutorial, it was found that allele frequencies were relatively low in African and African American and East Asian races.   
+**e)** When tumor-related mutations were identified with the COSMIC DB, the mutations derived from large intestine tissue were the most common.   
 **f)** When we checked what mutations were reported clinically through the ClinVar DB, Benign was the most common, which is likely a normal mutation that does not cause disease.
 
 ## citation
