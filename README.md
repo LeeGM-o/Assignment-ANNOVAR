@@ -51,8 +51,7 @@ table_annovar.pl JAS_GATK.avinput humandb/
   -xref example/gene_xref.txt 
   -remove -nastring . -csvout -polish
 ```
-![annovar2](https://github.com/user-attachments/assets/523239dd-524d-4ea3-b8be-d9472b8736d6)   
-
+![annovar2](https://github.com/user-attachments/assets/523239dd-524d-4ea3-b8be-d9472b8736d6)  
 Downstream analysis was performed by extracting only the variation in the exon site (exonic, splicing, exonic; splicing).
 
 #### 3) Downstream analysis
