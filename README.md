@@ -9,7 +9,7 @@
 > 4) **Other functionalities**: Retrieve the nucleotide sequence in any user-specific genomic positions in batch, identify a candidate gene list for Mendelian diseases from exome data, and other utilities.
 ## Data
 * VCF files Human Whole Exome Data via Illumina platform for JAS patients
-> P18: JAS_P18.GATK.snp.vcf;JAS_P18.GATK.indel.vcf
+> P18: JAS_P18.GATK.snp.vcf;JAS_P18.GATK.indel.vcf   
 > N36: JAS_N36.GATK.snp.vcf;JAS_N36.GATK.indel.vcf
 ## Processing
 #### 1) File format conversion
