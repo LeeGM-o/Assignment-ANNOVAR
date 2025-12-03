@@ -18,6 +18,6 @@
 #### 2) ANNOVAR annotation
 #### 3) Downstream analysis
 ## citation
+* Wang K, Li M, Hakonarson H. [ANNOVAR: Functional annotation of genetic variants from next-generation sequencing data Nucleic Acids Research](https://academic.oup.com/nar/article/38/16/e164/1749458), 38:e164, 2010
 * [https://annovar.openbioinformatics.org/en/latest/](https://annovar.openbioinformatics.org/en/latest/)
 * [https://figshare.com/articles/dataset/Whole_Exome_Data_VCF_files/13696750](https://figshare.com/articles/dataset/Whole_Exome_Data_VCF_files/13696750)
-* [Wang K, Li M, Hakonarson H. ANNOVAR: Functional annotation of genetic variants from next-generation sequencing data Nucleic Acids Research, 38:e164, 2010](https://academic.oup.com/nar/article/38/16/e164/1749458)
