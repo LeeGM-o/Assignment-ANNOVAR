@@ -9,7 +9,7 @@
 By integrating annotation across multiple databases through *ANNOVAR*, we identify the locations and functional impacts of DNA variants in specific populations, along with their allele frequencies, tumor-associated variants, and clinically reported variants.
   
 ## Data
-VCF files Human Whole Exome Data via Illumina platform for JAS patients
+VCF files Human Whole Exome Data via Illumina platform for *JAS* patients
 * P18: JAS_P18.GATK.snp.vcf;JAS_P18.GATK.indel.vcf   
 * N36: JAS_N36.GATK.snp.vcf;JAS_N36.GATK.indel.vcf
 
