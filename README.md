@@ -23,7 +23,7 @@ convert2annovar.pl -format vcf4 SNP/Indel.vcf > SNP/Indel.avinput
 
 #### 2) ANNOVAR annotation
 Annotation DB:
-* **refGene**: Classification of variant locations and functions.
+* **refGene**: Classification of variant locations and functions
 * **gnomAD**: frequency of alleles by population
 * **ClinVar**: Disease association, clinical interpretation
 * **COSMIC**: Cancer-derived mutation information
